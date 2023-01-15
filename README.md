@@ -17,7 +17,17 @@
 - LinkedIn - [Łukasz Myśliwiec](https://www.linkedin.com/in/%C5%82ukasz-my%C5%9Bliwiec-b246aa161/)
 - StackOverflow - [@thelukaszns](https://stackoverflow.com/users/10253926/thelukaszns)
 
-[![Łukasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLukaszNs&hide=contribs&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+<source 
+  srcset="https://github-readme-stats-thelukaszns.vercel.app/api?username=TheLukaszNs&theme=onedark&show_icons=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-thelukaszns.vercel.app/api?username=TheLukaszNs&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats-thelukaszns.vercel.app/api?username=TheLukaszNs&show_icons=true" />
+</picture>
 
 :heart:
 
